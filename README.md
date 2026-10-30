@@ -20,3 +20,5 @@
 | popularity | double | Scor de popularitate |
 | cast | string | Distribuția |
 | director | string | Regizorul |
+
+# Lab 03 - Recombee: înregistrare itemi cu succes
