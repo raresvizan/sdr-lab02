@@ -22,3 +22,5 @@
 | director | string | Regizorul |
 
 # Lab 03 - Recombee: înregistrare itemi cu succes
+
+# Lab 04: Dezvoltarea unei ontologii în WebProtege cu succes: [Ontologie](https://webprotege.stanford.edu/#projects/eee54ace-e8f0-406c-bd16-160c046085b3)
